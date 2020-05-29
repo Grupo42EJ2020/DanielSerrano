@@ -4,12 +4,15 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>Pia Desarrollo de Software</title>
+    <title>Error</title>
 </head>
 <body>
-    <h1>CompanyName</h1>
-    <ul>
-        <li><a href="/Employee/EmployeeRead">Employee</a></li>
-    </ul>
+    <div>
+        <h1>Error</h1>
+
+        <br />
+        <br />
+        <a href="/Employee/EmployeeRead">Volver</a>
+    </div>
 </body>
 </html>
